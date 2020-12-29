@@ -1,7 +1,7 @@
 <?php
-$name = $_POST['name']
-$email = $_POST['email']
-$message = $_POST['message']
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
 
 $formcontent="From: $name \n Message: $message";
 $mailTo = "joydeep5.asn@gmail.com";
